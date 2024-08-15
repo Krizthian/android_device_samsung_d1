@@ -46,5 +46,3 @@ PRODUCT_MODEL := SM-N970F
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
-
-#TestingLine
